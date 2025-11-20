@@ -30,7 +30,7 @@ The enemies are driven by a custom State Machine utilizing **Unity NavMesh** for
 
 ## 🛠 Technical Stack
 
-* **Engine:** Unity 2022 (or your specific version)
+* **Engine:** Unity 2025
 * **Language:** C#
 * **AI:** Unity NavMesh & Custom FSM
 * **Input:** Unity Input System
